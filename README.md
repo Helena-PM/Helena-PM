@@ -14,7 +14,7 @@ Tenho afinidade com tecnologia, lógica e resolução de problemas, e estou semp
       title="Me siga no Instagram"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
-  </a><a href="https://www.facebook.com/heleninha.pavani" target="_blank">
+  </a><a href="https://www.facebook.com/helena.pavani.9" target="_blank">
     <img 
       alt="Facebook"
       title="Me siga no Facebook"
